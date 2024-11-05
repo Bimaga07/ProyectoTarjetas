@@ -38,3 +38,5 @@ public class Principal {
         System.out.println("\nSaldo de la tarjeta: " +tarjeta.getSaldo());
     }
 }
+
+/*no entiendo pasa*/
