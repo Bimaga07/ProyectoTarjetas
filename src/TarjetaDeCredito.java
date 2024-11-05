@@ -9,7 +9,6 @@ public class TarjetaDeCredito {
     public TarjetaDeCredito(double limite) {
         this.limite = limite;
         this.saldo = limite;
-        this.listaDeCompras = new ArrayList<>();
     }
 
     public boolean lanzarCompra(Compra compra){
